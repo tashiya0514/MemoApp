@@ -47,7 +47,6 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     borderBottomWidth: 1,
     borderColor: 'rgba(0 ,0 ,0 ,0.15)',
-    
   },
   memoListItemTitle: {
     fontSize: 16,
